@@ -59,7 +59,7 @@ pnpm install
    - Go to Project Settings > Service Accounts
    - Click "Generate New Private Key"
    - Download the JSON file
-   - Rename it to `firebase-admin.json` and place it in the root directory of your project
+   - Rename it to `firebase_private_key.json` and place it in the root directory of your project
 
 5. Run the development server:
 ```bash
