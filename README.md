@@ -28,8 +28,8 @@ A modern web application for practicing and learning meme coin trading on Solana
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd crypto-wallet-manager
+git clone https://github.com/Victor-Evogor/cryptotraderwebsite.git
+cd cryptotraderwebsite
 ```
 
 2. Install dependencies:
